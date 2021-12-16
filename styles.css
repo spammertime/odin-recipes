@@ -1,0 +1,10 @@
+h1 {
+    font-size: 30px;
+    color: rgb(255, 197, 122);
+    background-color: rgb(29, 101, 129);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    height: auto;
+    width: 500px;
+}
